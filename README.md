@@ -1,16 +1,9 @@
 # payflow
 
-A new Flutter project.
+Projeto de Estudo NLW6
+Nome do projeto: PayFlow
 
-## Getting Started
+##Descrição
+O PayFlow é um organizador de boletos, onde o usuário poderá guardar os dados dos boletos e acompanhar quais já foram pagos ou não.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O mesmo utiliza Firebase como base de Dados e autenticação social com o Google.
